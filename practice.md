@@ -1,9 +1,9 @@
-# Learning Markdown
---------------------------
-**Definition**
+RAG, or **Retrieval-Augmented Generation**, is a hybrid approach in natural language processing (NLP) that combines the strengths of **retrieval-based** methods and **generative models** to improve the quality of generated text. It is commonly used in tasks like question answering, information retrieval, and dialogue systems.
 
-    - Markdown is a technique in which we write all our code, even the GPTs also write their text in markdown which becomes easily readible for the adiance.
------------
-> here is a link which will lead you to the importance of markdown
+### Components of RAG:
 
-[importance of Markdown](www.markdownsantax.com)
+1. **Retrieval-Based**:
+   - This component retrieves relevant information or documents from a large database or knowledge base.
+   
+2. **Generative Model**:
+   - After retrieving relevant information, the generative model, typically based on architectures like **GPT** or **BERT**, generates a coherent and context-aware response based on both the retrieved content and the original input.
